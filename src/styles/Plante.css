@@ -1,0 +1,11 @@
+td{
+	text-align: center;
+	font-size: 40px;
+	border: solid 2px #ffffff;
+	padding: 100px;
+}
+.plant table {
+	text-align: center;
+	padding: 50%;
+	position:  relative;
+}

@@ -1,0 +1,14 @@
+.jardin{
+	margin-left: 2%;
+	margin-right: 2%;
+	padding: 15px;
+	background-color: #31e5a6;
+	position:  relative;
+}
+.jardin h2{
+	color: white;
+	text-align: center;
+}
+.plante {
+	position:  relative;
+}

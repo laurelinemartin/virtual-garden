@@ -1,0 +1,14 @@
+.banner {
+    color: #3fb94a;
+    text-align: right;
+    padding: 15px;
+    border-bottom: solid 1px white;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+}
+.banner-logo{
+    height: 45px;
+    width: 45px;
+}

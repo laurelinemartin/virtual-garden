@@ -1,0 +1,13 @@
+.global{
+	width: 100%;
+}
+.div-graine, .div-jardin{
+	display: inline-block;
+	vertical-align: top;
+}
+.div-graine{
+	width: 20%;
+}
+.div-jardin{
+	width: 80%;
+}

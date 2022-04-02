@@ -1,0 +1,14 @@
+.graine{
+	margin-left: 2%;
+	margin-right: 0%;
+	padding: 20px 10px 20px 10px;
+	background-color: #31b572;
+	color: white;
+	text-align: left;
+	position:  relative;
+}
+.graine h2{
+	text-align: center;
+}
+.graine ul{
+}
