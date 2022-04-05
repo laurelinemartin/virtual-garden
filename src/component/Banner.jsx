@@ -1,7 +1,7 @@
 import * as React from "react"
 import '../styles/Banner.css'
 import logo from '../assets/leaf.png'
-console.log("it's okay.");
+console.log("it's okay from Banner.");
 
 const title = "le jardin virtuel";
 const desc = "Planter des petites graines dans un espace virtuel et les voir pousser !";
